@@ -1,0 +1,17 @@
+Order,Extant_species,Disparity,Colour,Superorder
+Afrosoricida,55,0.03399581,#FFA07A,Afrotheria
+Artiodactyla,265,0.02788663,#6495ED,Laurasiatheria
+Carnivora,311,0.01618477,#00BFFF,Laurasiatheria
+Cetacea,97,0.1671066,#0000FF,Laurasiatheria
+Chiroptera,1454,0.02893328,#00008B,Laurasiatheria
+Cingulata,22,0.03976969,#FFD700,Xenarthra
+Eulipotyphla,557,0.0267753,#C9C9FF,Laurasiatheria
+Lagomorpha,109,0.03242262,#3CB371,Euarchontoglires
+Macroscelidea,20,0.02696337,#FA8072,Afrotheria
+Perissodactyla,18,0.02765021,#7B68EE,Laurasiatheria
+Pilosa,16,0.0259641,#FFA500,Xenarthra
+Primates,519,0.03687493,#556B2F,Euarchontoglires
+Proboscidea,3,0.04868519,#FF0000,Afrotheria
+Rodentia,2654,0.03540725,#90EE90,Euarchontoglires
+Scandentia,23,0.01445214,#2E8B57,Euarchontoglires
+Sirenia,5,0.05526762,#B22222,Afrotheria
